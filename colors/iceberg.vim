@@ -159,7 +159,7 @@ else
   hi ColorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=#1e2132 guifg=NONE
   hi CursorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=#1e2132 guifg=NONE
   hi CursorLine cterm=NONE ctermbg=235 ctermfg=NONE guibg=#1e2132 guifg=NONE
-  hi Comment ctermfg=242 guifg=#6b7089
+  hi Comment ctermfg=247 guifg=#6b7089
   hi Conceal ctermbg=234 ctermfg=242 guibg=#161821 guifg=#6b7089
   hi Constant ctermfg=140 guifg=#a093c7
   hi Cursor ctermbg=252 ctermfg=234 guibg=#c6c8d1 guifg=#161821
@@ -173,9 +173,9 @@ else
   hi Error ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
   hi ErrorMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
   hi WarningMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
-  hi EndOfBuffer ctermfg=236 guifg=#242940
-  hi NonText ctermfg=236 guifg=#242940
-  hi Whitespace ctermfg=236 guifg=#242940
+  hi EndOfBuffer ctermfg=242 guifg=#242940
+  hi NonText ctermfg=242 guifg=#242940
+  hi Whitespace ctermfg=242 guifg=#242940
   hi Folded ctermbg=235 ctermfg=245 guibg=#1e2132 guifg=#686f9a
   hi FoldColumn ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
   hi Function ctermfg=110 guifg=#84a0c6
@@ -206,12 +206,12 @@ else
   hi Statement ctermfg=110 gui=NONE guifg=#84a0c6
   hi StatusLine cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596 term=reverse
   hi StatusLineTerm cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596 term=reverse
-  hi StatusLineNC cterm=reverse ctermbg=238 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
+  hi StatusLineNC cterm=reverse ctermbg=246 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
   hi StatusLineTermNC cterm=reverse ctermbg=238 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
   hi StorageClass ctermfg=110 guifg=#84a0c6
   hi String ctermfg=109 guifg=#89b8c2
   hi Structure ctermfg=110 guifg=#84a0c6
-  hi TabLine cterm=NONE ctermbg=233 ctermfg=238 gui=NONE guibg=#0f1117 guifg=#3e445e
+  hi TabLine cterm=NONE ctermbg=233 ctermfg=246 gui=NONE guibg=#0f1117 guifg=#3e445e
   hi TabLineFill cterm=reverse ctermbg=238 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
   hi TabLineSel cterm=NONE ctermbg=234 ctermfg=252 gui=NONE guibg=#161821 guifg=#9a9ca5
   hi TermCursorNC ctermbg=242 ctermfg=234 guibg=#6b7089 guifg=#161821
